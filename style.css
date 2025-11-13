@@ -4,9 +4,9 @@
   box-sizing: border-box;
 }
 
-.container {
+/* .container {
   display: flex;
-}
+} */
 
 .number,
 .operators-and-others button {
